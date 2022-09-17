@@ -429,7 +429,7 @@ img{
 
 .experience__company{
   margin-top: -1.5rem;
-  font-size: 0.84rem;
+  font-size: 0.94rem;
 }
 
 .ulle{
@@ -454,7 +454,7 @@ img{
 
 /*========== SKILLS AND LANGUAGES ==========*/
 .skills__content{
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
 }
 
 .languages__content{
